@@ -1,0 +1,61 @@
+historical_period1_historical_period_description period between the Death of Alexander the Great and the Battle of Actium
+historical_period0_historical_period_description defined by the rise of Athens
+painting_technique1_technique_description the opposite of the red figure technique
+painting_technique0_technique_description a black-painted background
+historical_period1_historical_period_time 323 and 31 B.C.
+historical_period0_historical_period_time 480 and 323 B.C.
+entity0_exhibit_characteristics representative of Early Classical vase painting
+sculptor0_person_information a major contribution to art
+painter0_person_information thought to have been painter of pots
+goddess0_person_information known as the protector of the animals
+potter0_person_information mainly known for moulded vessels
+city0_location_information a prominent city-state in ancient Greece
+style0_style_description a ornamental decoration
+entity0_inscription_says death by Ares, as he was fighting on the front
+god0_person_information one of the 12 olympian gods
+entity0_exhibit_purpose used in religious worship
+entity0_exhibit_depicts the goddess Athena
+sculptor0_person_story one of the most important sculptors of his time
+entity0_exhibit_height 212 centimeters
+painter0_person_story the most typical representative of the rich style
+entity0_exhibit_story part of a larger collection, dedicated to Athena
+entity0_creation_time between 500 and 480 B.C.
+sculptor0_other_work He is the author of the Diadumenos
+entity0_exhibit_form spherical in shape
+archaeological_site0 Acropolis
+panathenaic_amphora panathenaic amphora
+painting_technique1 black figure technique
+painting_technique0 red figure technique
+decorative_artefact decorative artefact
+historical_period1 hellenistic period
+historical_period0 classical period
+marriage_cauldron marriage cauldron
+imperial_portrait imperial portrait
+silver_material0 silver
+marble_material0 marble
+bronze_material0 bronze
+ivory_material0 ivory
+wood_material0 wood
+white_lekythos white lekythos
+suit_of_armour suit of armour
+roman_emperor0 Octavian Augustus
+gold_material0 gold
+complex_statue complex statue
+clay_material0 clay
+hydria_hadra hadra ware hydria
+black_kantharos black kantharos
+grave relief tomb stele
+roman_copy roman copy
+sculptor0 Polykleitos
+painter0 Amasis
+goddess0 Potnia
+region1 Macedonia
+region0 Attica
+potter0 Sotades
+museum1 The Museum of Thessaloniki
+museum0 The National Archaeological Museum
+island0 rhodes
+style0 the rich style
+city1 Thessaloniki
+city0 Athens
+god0 Apollo
